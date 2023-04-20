@@ -19,3 +19,6 @@
 [submodule "Algoritmos-y-Programacion-I-75.40"]
 	path = Algoritmos-y-Programacion-I-75.40
 	url = https://github.com/gcc-cdimatteo/Algoritmos-y-Programacion-I-75.40
+[submodule "Analisis-Numerico-I-75.12"]
+	path = Analisis-Numerico-I-75.12
+	url = https://github.com/gcc-cdimatteo/Analisis-Numerico-I-75.12
