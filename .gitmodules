@@ -10,3 +10,6 @@
 [submodule "Estructura-del-Computador-66.70"]
 	path = Estructura-del-Computador-66.70
 	url = https://github.com/gcc-cdimatteo/Estructura-del-Computador-66.70
+[submodule "Taller-de-Programacion-I-75.42"]
+	path = Taller-de-Programacion-I-75.42
+	url = https://github.com/gcc-cdimatteo/Taller-de-Programacion-I-75.42
