@@ -13,3 +13,6 @@
 [submodule "Taller-de-Programacion-I-75.42"]
 	path = Taller-de-Programacion-I-75.42
 	url = https://github.com/gcc-cdimatteo/Taller-de-Programacion-I-75.42
+[submodule "Teoria-de-Algoritmos-I-75.29"]
+	path = Teoria-de-Algoritmos-I-75.29
+	url = https://github.com/gcc-cdimatteo/Teoria-de-Algoritmos-I-75.29
