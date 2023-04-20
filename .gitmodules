@@ -1,3 +1,6 @@
 [submodule "Probabilidad-y-Estadistica-61.09"]
 	path = Probabilidad-y-Estadistica-61.09
 	url = https://github.com/gcc-cdimatteo/Probabilidad-y-Estadistica-61.09.git
+[submodule "Organizacion-de-Datos-75.06"]
+	path = Organizacion-de-Datos-75.06
+	url = https://github.com/gcc-cdimatteo/Organizacion-de-Datos-75.06
