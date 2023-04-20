@@ -22,3 +22,6 @@
 [submodule "Analisis-Numerico-I-75.12"]
 	path = Analisis-Numerico-I-75.12
 	url = https://github.com/gcc-cdimatteo/Analisis-Numerico-I-75.12
+[submodule "Algoritmos-y-Programacion-III-75.07"]
+	path = Algoritmos-y-Programacion-III-75.07
+	url = https://github.com/gcc-cdimatteo/Algoritmos-y-Programacion-III-75.07
