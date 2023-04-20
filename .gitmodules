@@ -4,3 +4,6 @@
 [submodule "Organizacion-de-Datos-75.06"]
 	path = Organizacion-de-Datos-75.06
 	url = https://github.com/gcc-cdimatteo/Organizacion-de-Datos-75.06
+[submodule "Sistemas-Operativos-75.08"]
+	path = Sistemas-Operativos-75.08
+	url = https://github.com/gcc-cdimatteo/Sistemas-Operativos-75.08
