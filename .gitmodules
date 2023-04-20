@@ -7,3 +7,6 @@
 [submodule "Sistemas-Operativos-75.08"]
 	path = Sistemas-Operativos-75.08
 	url = https://github.com/gcc-cdimatteo/Sistemas-Operativos-75.08
+[submodule "Estructura-del-Computador-66.70"]
+	path = Estructura-del-Computador-66.70
+	url = https://github.com/gcc-cdimatteo/Estructura-del-Computador-66.70
