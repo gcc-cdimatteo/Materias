@@ -31,3 +31,9 @@
 [submodule "Base-de-Datos-75.15"]
 	path = Base-de-Datos-75.15
 	url = https://github.com/gcc-cdimatteo/Base-de-Datos-75.15
+[submodule "Tecnicas-de-Diseno-75.10"]
+	path = Tecnicas-de-Diseno-75.10
+	url = https://github.com/gcc-cdimatteo/Tecnicas-de-Diseno-75.10
+[submodule "Introduccion-a-los-Sistemas-Distribuidos-75.43"]
+	path = Introduccion-a-los-Sistemas-Distribuidos-75.43
+	url = https://github.com/gcc-cdimatteo/Introduccion-a-los-Sistemas-Distribuidos-75.43
