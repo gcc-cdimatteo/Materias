@@ -37,3 +37,12 @@
 [submodule "Introduccion-a-los-Sistemas-Distribuidos-75.43"]
 	path = Introduccion-a-los-Sistemas-Distribuidos-75.43
 	url = https://github.com/gcc-cdimatteo/Introduccion-a-los-Sistemas-Distribuidos-75.43
+[submodule "EBTI-Empresas-de-Base-Tecnologica"]
+	path = EBTI-Empresas-de-Base-Tecnologica
+	url = https://github.com/gcc-cdimatteo/EBTI-Empresas-de-Base-Tecnologica
+[submodule "Analisis-Numerico-I-75.12"]
+	path = Analisis-Numerico-I-75.12
+	url = https://github.com/gcc-cdimatteo/Analisis-Numerico-I-75.12
+[submodule "Tecnicas-de-Programacion-Concurrente-I-7559"]
+	path = Tecnicas-de-Programacion-Concurrente-I-7559
+	url = https://github.com/gcc-cdimatteo/Tecnicas-de-Programacion-Concurrente-I-7559
